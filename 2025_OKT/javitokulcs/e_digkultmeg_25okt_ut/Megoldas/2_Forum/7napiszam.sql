@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT f_id)
+FROM uzenet;
