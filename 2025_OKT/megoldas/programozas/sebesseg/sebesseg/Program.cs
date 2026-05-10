@@ -125,6 +125,58 @@ namespace sebesseg
             }
             Console.WriteLine($"A sebességkorlátozó táblák száma: {sebessegKorlatozo_tablak}");
             Console.WriteLine($"Az út hossza a településen belül {varosSzakasz_Hossz} méter.");
+
+            Console.WriteLine("6. feladat");
+            var bekert = varosok.FirstOrDefault(x => x.Ertek == bekert_varos);
+            var index = varosok.IndexOf(bekert);
+            var bekert_sebessegek_index = sebessegek.FirstOrDefault(x => x.Ertek == bekert_varos);
+            var index_a_sebessegekben = sebessegek.IndexOf(bekert_sebessegek_index);
+            int vege_index_tavolsag = 0;
+            for (int i = index_a_sebessegekben; i < sebessegek.Count; i++)
+            {
+                if (sebessegek[i].Tipus == "vege")
+                {
+                    vege_index_tavolsag = sebessegek[i].Tavolsag;
+                    break;
+                }
+            }
+            if (index == 0)
+            {
+                Console.WriteLine($"A legközelebbi település: {varosok[index + 1].Ertek}");
+            }
+            else if (index == varosok.Count - 1)
+            {
+                Console.WriteLine($"A legközelebbi település: {varosok[index - 1].Ertek}");
+            }
+            else
+            {
+                int bekert_varos_elotti_varos_vege_tavolsag = 0;
+                var elotti_varos = varosok[index - 1];
+                var elotti_varos_sebessegek_index = sebessegek.IndexOf(sebessegek.FirstOrDefault(x => x.Ertek == elotti_varos.Ertek));
+                for (int i = elotti_varos_sebessegek_index; i < sebessegek.Count; i++)
+                {
+                    if (sebessegek[i].Tipus == "vege")
+                    {
+                        bekert_varos_elotti_varos_vege_tavolsag = sebessegek[i].Tavolsag;
+                        break;
+                    }
+                }
+                var elso_szomszed = bekert.Tavolsag - bekert_varos_elotti_varos_vege_tavolsag;
+                var kovetkezo_szomszed = varosok[index + 1].Tavolsag - vege_index_tavolsag;
+                if (elso_szomszed < kovetkezo_szomszed)
+                {
+                    Console.WriteLine($"A legközelebbi település: {elotti_varos.Ertek}");
+                }
+                else if (elso_szomszed > kovetkezo_szomszed)
+                {
+                    Console.WriteLine($"A legközelebbi település: {varosok[index + 1].Ertek}");
+                }
+                else
+                {
+                    Console.WriteLine($"A legközelebbi település: {elotti_varos.Ertek}");
+                }
+            }
+
         }
     }
 }
