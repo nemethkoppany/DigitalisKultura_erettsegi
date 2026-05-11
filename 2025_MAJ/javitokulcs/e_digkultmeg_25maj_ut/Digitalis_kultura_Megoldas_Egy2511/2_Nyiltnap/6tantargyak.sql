@@ -1,0 +1,3 @@
+SELECT DISTINCT targy
+FROM orak
+ORDER BY targy;
