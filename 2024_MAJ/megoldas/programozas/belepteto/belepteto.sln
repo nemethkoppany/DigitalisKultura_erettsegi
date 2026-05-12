@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belepteto", "belepteto\belepteto.csproj", "{667DC5A5-D97B-4D39-988D-3343A06B2BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667DC5A5-D97B-4D39-988D-3343A06B2BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667DC5A5-D97B-4D39-988D-3343A06B2BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667DC5A5-D97B-4D39-988D-3343A06B2BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667DC5A5-D97B-4D39-988D-3343A06B2BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B2D030-3540-459C-8320-73F396A37FF6}
+	EndGlobalSection
+EndGlobal

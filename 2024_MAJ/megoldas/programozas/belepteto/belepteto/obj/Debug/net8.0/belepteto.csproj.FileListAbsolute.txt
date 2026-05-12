@@ -1,0 +1,16 @@
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\bin\Debug\net8.0\belepteto.exe
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\bin\Debug\net8.0\bedat.txt
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\bin\Debug\net8.0\belepteto.deps.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\bin\Debug\net8.0\belepteto.runtimeconfig.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\bin\Debug\net8.0\belepteto.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\bin\Debug\net8.0\belepteto.pdb
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\belepteto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfoInputs.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfo.cs
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\belepteto.csproj.CoreCompileInputs.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\belepteto.sourcelink.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\belepteto.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\refint\belepteto.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\belepteto.pdb
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\belepteto.genruntimeconfig.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_MAJ\megoldas\programozas\belepteto\belepteto\obj\Debug\net8.0\ref\belepteto.dll
