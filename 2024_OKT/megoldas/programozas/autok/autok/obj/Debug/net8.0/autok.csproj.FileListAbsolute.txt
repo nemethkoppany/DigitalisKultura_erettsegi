@@ -1,0 +1,16 @@
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\bin\Debug\net8.0\autok.exe
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\bin\Debug\net8.0\jeladas.txt
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\bin\Debug\net8.0\autok.deps.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\bin\Debug\net8.0\autok.runtimeconfig.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\bin\Debug\net8.0\autok.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\bin\Debug\net8.0\autok.pdb
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\autok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\autok.AssemblyInfoInputs.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\autok.AssemblyInfo.cs
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\autok.csproj.CoreCompileInputs.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\autok.sourcelink.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\autok.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\refint\autok.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\autok.pdb
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\autok.genruntimeconfig.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2024_OKT\megoldas\programozas\autok\autok\obj\Debug\net8.0\ref\autok.dll
