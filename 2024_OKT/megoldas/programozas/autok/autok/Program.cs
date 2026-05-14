@@ -72,6 +72,51 @@
             }
 
 
+            Console.WriteLine("6. feladat:");
+            Console.WriteLine("Kérem adja meg a rendszámot: ");
+            var bekert_rendszam = Console.ReadLine();
+
+            if (adatok.Any(x => x.Rendszam == bekert_rendszam))
+            {
+                var szurtAdatok = adatok.Where(x => x.Rendszam == bekert_rendszam);
+
+                double osszTav = 0;
+                Adatok elozo = null;
+
+                foreach (var e in szurtAdatok)
+                {
+                    if (elozo != null)
+                    {
+                        double elteltPerc =
+                            (e.Ora * 60 + e.Perc) -
+                            (elozo.Ora * 60 + elozo.Perc);
+
+                        double elteltOra = elteltPerc / 60.0;
+
+                        osszTav += elteltOra * elozo.Sebesseg;
+                    }
+
+                    Console.WriteLine($"{e.Ora}:{e.Perc:D2} {osszTav:F1} km");
+
+                    elozo = e;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nincs ilyen rendszám!");
+            }
+
+            //7. feladat
+                
+            var szurt = adatok.Select(x=>x.Rendszam).Distinct().ToList();
+            List<string>elso_utolso_adatok = new List<string>();
+            foreach(var e in szurt)
+            {
+                var elso_jeladas = adatok.Where(x=>x.Rendszam == e).First();
+                var utolso_jeladas = adatok.Where(x=>x.Rendszam == e).Last();
+                elso_utolso_adatok.Add($"{elso_jeladas.Rendszam} {elso_jeladas.Ora} {elso_jeladas.Perc} {utolso_jeladas.Ora} {utolso_jeladas.Perc}");
+            }
+            File.WriteAllLines("ido.txt",elso_utolso_adatok);
         }
     }
 }
