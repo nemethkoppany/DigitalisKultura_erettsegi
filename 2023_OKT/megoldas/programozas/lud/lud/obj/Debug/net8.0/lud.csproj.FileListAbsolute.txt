@@ -1,0 +1,17 @@
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\bin\Debug\net8.0\lud.exe
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\bin\Debug\net8.0\dobasok.txt
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\bin\Debug\net8.0\osvenyek.txt
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\bin\Debug\net8.0\lud.deps.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\bin\Debug\net8.0\lud.runtimeconfig.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\bin\Debug\net8.0\lud.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\bin\Debug\net8.0\lud.pdb
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\lud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\lud.AssemblyInfoInputs.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\lud.AssemblyInfo.cs
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\lud.csproj.CoreCompileInputs.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\lud.sourcelink.json
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\lud.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\refint\lud.dll
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\lud.pdb
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\lud.genruntimeconfig.cache
+C:\Tanulás\Digitalis_Kultura\DigitalisKultura_erettsegi\2023_OKT\megoldas\programozas\lud\lud\obj\Debug\net8.0\ref\lud.dll
